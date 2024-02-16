@@ -1,0 +1,6 @@
+[submodule "first_site/themes/ananke"]
+	path = first_site/themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "first_site/themes/shadocs"]
+	path = first_site/themes/shadocs
+	url = https://github.com/jgazeau/shadocs.git
